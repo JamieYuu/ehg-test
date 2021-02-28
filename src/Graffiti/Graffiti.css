@@ -1,0 +1,8 @@
+.ColorPalette-Container {
+  position: relative;
+}
+
+.ColorPalette-LineContainer {
+  display: flex;
+  margin: auto;
+}
